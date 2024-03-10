@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moshPrint", "moshPrint\moshPrint.csproj", "{FA091242-759A-4083-AE9E-FF0EEE89B9BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA091242-759A-4083-AE9E-FF0EEE89B9BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA091242-759A-4083-AE9E-FF0EEE89B9BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA091242-759A-4083-AE9E-FF0EEE89B9BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA091242-759A-4083-AE9E-FF0EEE89B9BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6D8AE49-5CE2-4F12-9786-E34DD0957340}
+	EndGlobalSection
+EndGlobal
